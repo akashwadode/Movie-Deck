@@ -1,14 +1,5 @@
 
-// const movieList = document.querySelector("#movie-list");
 
-// async function getMovies(pageNumber =1){
-//     const response = await fetch(`https://api.themoviedb.org/3/movie/popular?language=en-US&page=${pageNumber}`);
-//     const json = await response.json();
-// }
-
-// document.getElementById
-// document.getElementsByClassName
-// document.getElementsByName
 
 let pageNumber;
 let totalPages = 0;
